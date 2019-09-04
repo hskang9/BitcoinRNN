@@ -1,2 +1,2 @@
 # BitcoinTrackerRNN
-Bitcoin Tracking with LSTM
+Bitcoin price tracking with LSTM
